@@ -1,0 +1,1 @@
+export const LOCATION_LIST = 'https://run.mocky.io/v3/3f836e2a-e108-4e61-9c12-012a00b8dfef'
